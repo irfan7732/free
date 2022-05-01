@@ -9,8 +9,8 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     os.system('clear')
     os.system('git pull')
-    from irfan import ___RecodeSampah__
-    ___RecodeSampah__()
+    print('Maintenance Break')
+    print('Tool will come soon')
 elif bit == '32bit':
     os.system('clear')
     os.system('git pull')

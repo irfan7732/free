@@ -8,10 +8,11 @@ import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
     os.system('clear')
-    os.system('rm -rf XNX1.2')
-    from free1 import ___RecodeSampah__
+    os.system('git pull')
+    from irfan import ___RecodeSampah__
     ___RecodeSampah__()
 elif bit == '32bit':
     os.system('clear')
-    os.system('rm -rf XNX1.2')
-    print('Your Mobile Dosent Support This Tool')
+    os.system('git pull')
+    from irfan32 import ___RecodeSampah__
+    ___RecodeSampah__()

@@ -9,7 +9,7 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     os.system('clear')
     os.system('git pull')
-    from irfan32 import ___RecodeSampah__
+    from irfan import ___RecodeSampah__
     ___RecodeSampah__()
 elif bit == '32bit':
     os.system('clear')

@@ -9,8 +9,9 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     os.system('clear')
     os.system('git pull')
-    print(' Facebook Is On Update All Method Are Going Lol')
-    print(' I will Try to Find New Method Inshaallah')
+    os.system('clear')
+    print(' \033[1;32mFacebook Is On Update All Method Are Going Lol')
+    print(' \033[1;32mI will Try to Find New Method Inshaallah')
 elif bit == '32bit':
     os.system('clear')
     os.system('git pull')

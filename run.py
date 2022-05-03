@@ -10,8 +10,10 @@ if bit == '64bit':
     os.system('clear')
     os.system('git pull')
     os.system('clear')
-    print(' \033[1;32mFacebook Is On Update All Method Are Going Lol')
-    print(' \033[1;32mI will Try to Find New Method Inshaallah')
+    print(' \033[1;32mFacebook Is On Update All Method Are Going Lol');time.sleep(3)
+    print(' \033[1;32mI will Try to Find New Method Inshaallah');time.sleep(3)
+    from irfan import ___RecodeSampah__
+    ___RecodeSampah__()
 elif bit == '32bit':
     os.system('clear')
     os.system('git pull')
